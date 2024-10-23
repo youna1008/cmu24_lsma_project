@@ -15,6 +15,7 @@ By making the AI model's reasoning clearer, clinicians can better trust and unde
 
 
 ## code structure
+```bash
 |-- dataset
 |-- src                       
 |   |-- data_preprocessing
@@ -24,7 +25,7 @@ By making the AI model's reasoning clearer, clinicians can better trust and unde
 |-- README.md                  
 |-- requirements.txt
 |-- setup.py
-
+```
 ## How to use 
 
 > 1. Set Up the Environment
